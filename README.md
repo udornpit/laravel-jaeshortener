@@ -3,7 +3,7 @@
 
 ## About JAE-Shortener
 
-A tiny/clean/limit version of Short URL application, and also a successor to JAE-ShortURL project.
+A tiny/clean/limit version of Short URL application, and also a successor to [JAE-ShortURL](https://github.com/udornpit/laravel-jaeshorturl) project.
 
 ## Working Time
 
