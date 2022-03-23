@@ -47,4 +47,4 @@ Any ploblems with `JAE-Shortener`, please feel free to let me know.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The JAE-Shortener is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
