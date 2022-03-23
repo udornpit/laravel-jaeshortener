@@ -21,8 +21,8 @@ A tiny/clean/limit version of Short URL application, and also a successor to [JA
 ## New/Drop Features
 
 - Only one table for authentication separated by a new field, "user_type".
-- Remove UPDATE functionality in admin area to prevent junks pattern.
-- More demonstrations on DELETE i.e. deleteByUser, deleteAll(clear&reset).
+- Remove `UPDATE` functionality in admin area to prevent junks pattern.
+- More demonstrations on `DELETE` i.e. deleteByUser, deleteAll(clear&reset).
 - Make routes look clean by moving things inside closure to controller.
 - No additional packages are required except those coming with the command
 
